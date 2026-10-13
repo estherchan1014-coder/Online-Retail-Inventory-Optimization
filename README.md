@@ -353,6 +353,7 @@ Effective inventory management requires balancing:
 - NumPy
 - SciPy
 - Matplotlib
+- Seaborn
 - Jupyter Notebook
 
 ---
